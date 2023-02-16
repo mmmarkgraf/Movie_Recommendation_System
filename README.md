@@ -53,4 +53,4 @@ Version 1.01 Updates:<br>
 ~ Exporting vectorized_dict dictionary as a pickle file (as well as loading it in). Adding the pickle file to data.zip<br>
 
 <br><br>
-Questions? Comments? Email me: dv930@nyu.edu
+Questions? Comments? Email me: marnixmarkgraf@gmail.com
